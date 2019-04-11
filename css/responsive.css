@@ -1,0 +1,441 @@
+@media (max-width:400px) {
+    .titulos {
+        font-size: 1.8rem;
+    }
+
+    footer .col-newsletter p {
+        font-size: 1.1rem;
+    }
+
+    .main-pos {
+        margin-left: 0 !important;
+        background: #000;
+    }
+}
+
+@media(max-width:482px) {
+    .nav-one .hide {
+        display: none !important;
+    }
+
+    .nav-one a {
+        font-size: .5em;
+    }
+
+    .home .hide {
+        display: none !important;
+    }
+
+    .nav-one {
+        -webkit-box-pack: center !important;
+        -ms-flex-pack: center !important;
+        justify-content: center !important;
+        font-size: 1.27em;
+    }
+
+    .plataforma .hide {
+        display: none;
+    }
+
+    .row-legales .p-politicas {
+        color: #bababa;
+    }
+
+    .main-pos .img-plataforma {
+        width: 200px !important;
+    }
+}
+
+@media (max-width:575px) {
+    .col-video-dos {
+        width: 100% !important;
+    }
+
+    .btnCrear,
+    .btnPersonalizar {
+        font-size: 1em;
+    }
+
+    .startPlay .subtitulo h3 {
+        font-size: 1em;
+        text-align: center;
+    }
+
+    img.laterales {
+        display: none;
+    }
+
+    .logos-bancos img {
+        width: 65px;
+    }
+
+    .reconocimientos-img .borde-top,
+    .reconocimientos-img .borde-right,
+    .reconocimientos-img::before,
+    .reconocimientos-img::after {
+        display: none;
+    }
+
+    .reconocimientos-img {
+        border-radius: 0;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+
+    .row-pasarela img {
+        width: 320px;
+        height: 320px;
+    }
+
+    .elements .marcos-titulo {
+        display: none;
+    }
+
+    .modal-content-elements .lateral-left,
+    .modal-content-elements .lateral-right {
+        display: none;
+    }
+
+    .modal-content-elements {
+        border-radius: 0;
+    }
+
+    .modal-content-elements .title {
+        width: 90%;
+    }
+
+    .carousel-control-prev {
+        left: -20px;
+    }
+
+    .carousel-control-next {
+        right: -20px;
+    }
+
+    #playzone .carousel-control-prev {
+        left: 0px;
+    }
+
+    #playzone .carousel-control-next {
+        right: 0px;
+    }
+
+    .primero th:nth-child(3),
+    .primero th:nth-child(5),
+    .segundo td:nth-child(3),
+    .segundo td:nth-child(5),
+    .tercero td:nth-child(3),
+    .tercero td:nth-child(5) {
+        font-size: .8em;
+        width: auto;
+    }
+
+    table .avatar,
+    table .copa,
+    table .posicion-primeros {
+        width: 50px;
+        height: 50px;
+        font-size: 1.3em !important;
+    }
+
+    .primero th:nth-child(4),
+    .segundo td:nth-child(4),
+    .tercero td:nth-child(4) {
+        padding: 0;
+        font-size: 1.1em;
+    }
+
+    .logo-certificado img {
+        max-width: 100px;
+        max-height: 100px;
+    }
+
+    #playzone .carousel-inner img {
+        width: 130px;
+    }
+
+    .modal-tres .title-tools {
+        font-size: .7em;
+        margin: 0 !important;
+        width: 47%;
+    }
+
+    .test-img h3,
+    .ranking-title h3 {
+        font-size: 1.2em;
+    }
+
+    .ultimos tr td:nth-child(3) {
+        font-size: .8em;
+    }
+
+    .derechos-reservados {
+        font-size: .75em;
+    }
+
+    .noticia-facebook {
+        height: 180px;
+    }
+
+    .elements h3.titulo {
+        font-size: 1.1em;
+    }
+
+    .cabina .graficas img {
+        width: 250px;
+    }
+
+    .contacto h3 {
+        font-size: 1em;
+    }
+
+    footer .col-advertencia .p-advertencia {
+        font-size: .8em;
+    }
+
+    .row-pasarela h3 {
+        font-size: 1.1em;
+    }
+}
+
+@media (min-width:768px) {
+    .btn-carousel {
+        display: none !important;
+    }
+
+    /* .modal-uno img,
+.modal-dos img,
+.modal-tres img {
+    width: 250px;
+} */
+}
+
+@media (max-width:991px) {
+    .plataforma .barras {
+        display: none !important;
+    }
+
+    .navbar-collapse {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100vh;
+        background: #000;
+        width: 100%;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center !important;
+        -ms-flex-pack: center !important;
+        justify-content: center !important;
+        -webkit-box-align: center !important;
+        -ms-flex-align: center !important;
+        align-items: center !important;
+    }
+
+    .navbar-collapse a {
+        display: block;
+        color: aqua;
+        font-size: 1.5em;
+        text-align: center;
+    }
+
+    .footer-home-desktop {
+        display: none !important;
+    }
+
+    .startPlay .carousel-caption {
+        position: relative;
+        right: 0;
+        left: 0;
+    }
+
+    .startPlay .subtitulo {
+        position: relative !important;
+    }
+
+    .modal-uno,
+    .modal-dos,
+    .modal-tres {
+        -webkit-box-orient: horizontal !important;
+        -webkit-box-direction: normal !important;
+        -ms-flex-direction: row !important;
+        flex-direction: row !important;
+    }
+
+    .modal-uno img,
+    .modal-dos img,
+    .modal-tres img {
+        width: 250px;
+    }
+
+    .row-noticias-desktop {
+        display: none;
+    }
+
+    .row-noticias-mobile {
+        display: block;
+    }
+}
+
+@media (max-width:1199px) {
+    .navbar-brand img {
+        width: 130px;
+    }
+
+    .home {
+        /* height: auto; */
+        margin-top: 8rem;
+    }
+
+    .footer-home {
+        position: relative;
+    }
+
+    /* .col-video-uno {
+        width: 50%;
+        height: auto;
+    } */
+
+    .col-video-uno video {
+        width: 100%;
+        height: auto;
+    }
+
+    .sidebar {
+        -webkit-box-orient: horizontal !important;
+        -webkit-box-direction: normal !important;
+        -ms-flex-direction: row !important;
+        flex-direction: row !important;
+        width: 100%;
+        margin: 0 auto;
+        z-index: 1
+    }
+
+    .sidebar>div:nth-child(3) {
+        height: 67px;
+    }
+
+    .col-redes {
+        width: 100%;
+        -webkit-box-orient: horizontal !important;
+        -webkit-box-direction: normal !important;
+        -ms-flex-direction: row !important;
+        flex-direction: row !important;
+        margin: 1em 0 0 0;
+    }
+
+    .col-redes .redes {
+        margin: 0 .5em;
+    }
+}
+
+@media (min-width:1200px) {
+    /* .row-home {
+    height: 460px;
+} */
+
+    /* .home {
+    height: ;
+    position: relative;
+} */
+}
+
+@media (max-width:767px) {
+    .col-video-uno {
+        width: 100%;
+        height: auto;
+    }
+
+    .col-video-dos video {
+        width: 100%;
+    }
+
+    .modal-uno img,
+    .modal-dos img,
+    .modal-tres img {
+        width: 110px;
+    }
+
+    .title-tools:nth-child(2) {
+        font-size: .7em;
+    }
+
+    .conoce-trader {
+        height: 180px;
+    }
+}
+
+@media (min-width:992px) {
+    .footer-home-responsive {
+        display: none !important;
+    }
+
+    .row-noticias-desktop {
+        display: -webkit-box !important;
+        display: -ms-flexbox !important;
+        display: flex !important;
+    }
+
+    .row-noticias-mobile {
+        display: none !important;
+    }
+}
+
+@media (max-width:991px) and (min-width:576px) {
+    .footer-home-responsive img {
+        height: 100px;
+    }
+
+    .footer-home-responsive .fecha {
+        height: 100px !important;
+    }
+
+    .elements .marcos-titulo {
+        width: 20%;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+
+    /* .startPlay .subtitulo {
+    bottom: -60px !important;
+} */
+    .wrap-element .bg {
+        left: 15%;
+        width: 70%;
+        top: 7%;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .wrap-element .bg {
+        left: 15%;
+        width: 70%;
+        top: 21%;
+    }
+
+    .modal-tres .title-tools {
+        width: 34%;
+        font-size: 1em;
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .elements .marcos-titulo {
+        width: 20%;
+    }
+
+    #playzone .carousel-inner img {
+        width: 300px;
+    }
+
+    .modal-tres .title-tools {
+        width: 42%;
+        font-size: .6em;
+    }
+}
