@@ -214,11 +214,15 @@ linksParentNoticias.on('click', 'a', function (e) {
 
 /* Cookies */
 
-// let cookiesBox = document.querySelector('.cookies');
-// let closeCookies = document.querySelector('#close-cookies');
-// let aceptarCookies = document.querySelector('.aceptar-cookies');
-// closeCookies.addEventListener('click', () => cookiesBox.style.display = 'none');
-// aceptarCookies.addEventListener('click', () => cookiesBox.style.display = 'none');
+let cookiesBox = document.querySelector('.cookies');
+let closeCookies = document.querySelector('#close-cookies');
+let aceptarCookies = document.querySelector('.aceptar-cookies');
+closeCookies.addEventListener('click', function () {
+    cookiesBox.style.display = 'none'
+});
+aceptarCookies.addEventListener('click', function () {
+    cookiesBox.style.display = 'none'
+});
 
 
 /* Boton de usuarios en linea que aparece despues de la seccion cabina */
@@ -351,40 +355,40 @@ function getVideos(el) {
 //     }
 // });
 
-document.addEventListener("DOMContentLoaded", function() {
-  let lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
-  let active = false;
+document.addEventListener("DOMContentLoaded", function () {
+    let lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
+    let active = false;
 
-  const lazyLoad = function() {
-    if (active === false) {
-      active = true;
+    const lazyLoad = function () {
+        if (active === false) {
+            active = true;
 
-      setTimeout(function() {
-        lazyImages.forEach(function(lazyImage) {
-          if ((lazyImage.getBoundingClientRect().top <= window.innerHeight && lazyImage.getBoundingClientRect().bottom >= 0) && getComputedStyle(lazyImage).display !== "none") {
-            lazyImage.src = lazyImage.dataset.src;
-            lazyImage.srcset = lazyImage.dataset.srcset;
-            lazyImage.classList.remove("lazy");
+            setTimeout(function () {
+                lazyImages.forEach(function (lazyImage) {
+                    if ((lazyImage.getBoundingClientRect().top <= window.innerHeight && lazyImage.getBoundingClientRect().bottom >= 0) && getComputedStyle(lazyImage).display !== "none") {
+                        lazyImage.src = lazyImage.dataset.src;
+                        lazyImage.srcset = lazyImage.dataset.srcset;
+                        lazyImage.classList.remove("lazy");
 
-            lazyImages = lazyImages.filter(function(image) {
-              return image !== lazyImage;
-            });
+                        lazyImages = lazyImages.filter(function (image) {
+                            return image !== lazyImage;
+                        });
 
-            if (lazyImages.length === 0) {
-              document.removeEventListener("scroll", lazyLoad);
-              window.removeEventListener("resize", lazyLoad);
-              window.removeEventListener("orientationchange", lazyLoad);
-            }
-          }
-        });
+                        if (lazyImages.length === 0) {
+                            document.removeEventListener("scroll", lazyLoad);
+                            window.removeEventListener("resize", lazyLoad);
+                            window.removeEventListener("orientationchange", lazyLoad);
+                        }
+                    }
+                });
 
-        active = false;
-      }, 200);
-    }
-  };
+                active = false;
+            }, 200);
+        }
+    };
 
-  document.addEventListener("scroll", lazyLoad);
-  window.addEventListener("resize", lazyLoad);
-  window.addEventListener("orientationchange", lazyLoad);
+    document.addEventListener("scroll", lazyLoad);
+    window.addEventListener("resize", lazyLoad);
+    window.addEventListener("orientationchange", lazyLoad);
 });
 

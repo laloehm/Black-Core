@@ -1,0 +1,25 @@
+
+/* Comando para saber si tenemos git */
+git --version
+
+/* Comando para crear un alias del status de los cambios. */
+git config --global alias.s "status -s" 
+
+/* Comando para crear un alias del la consola */
+git config --global alias.lg "log --oneline --decorate --all --graph"
+
+/* Comando para configurar el usuario de git */
+git config --global user.name "laloehm"
+
+/* Comando para configurar el email de git */
+git config --global user.mail "poner-email"
+
+/* Comando para iniciar git */
+git init
+
+/* Comando para agregar archivos a git */
+git commit -m "Mi Primer commit en Marret"
+
+/* Comandos para subir los archivos a git */
+git remote add origin https://github.com/laloehm/Marret.git
+git push -u origin master
