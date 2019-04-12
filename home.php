@@ -73,13 +73,13 @@
             </div>
             <div class="row">
                 <div class=" p-3 item-noticias m-md-0">
-                    <a href="#noticias" class="smooth">
+                    <a href="#testimoniales" class="smooth">
                         <div class="home-noticias">
                             <div class="d-flex justify-content-center my-lg-1 my-3">
                                 <img src="images/Home/Copa.png" height="80" width="80" alt="Icono de Ranking">
                             </div>
                             <h4 class="text-center text-white">RANKING.</h4>
-                            <p class="font-gris-tres mb-0 text-center">Mantente informado aquí con las noticias más relevantes del mundo de las finanzas. </p>
+                            <p class="font-gris-tres mb-0 text-center">Conoce a los mejores traders así cómo la mejor operación. </p>
                         </div>
                     </a>
                 </div>
@@ -89,9 +89,9 @@
                     </video>
                 </div>
                 <div class="bg-black-three py-3 py-md-0 noticia-facebook">
-                    <a href="https://www.facebook.com/blackcorerb/photos/a.769133163455697/786988518336828/?type=3&theater" target="blank" rel="noopener">
-                        <img src="images/Noticias/Abril/Face-10-Abril.jpg" class="img-fluid" alt="Imagen relacionada con la noticia">
-                        <h5 class="text-white">Exxon está en conversaciones para crear nuevos acuerdos.</h5>
+                    <a href="https://www.facebook.com/blackcorerb/photos/a.769133163455697/788208504881496/?type=3&theater" target="blank" rel="noopener">
+                        <img src="images/Noticias/Abril/Face-12-Abril.jpg" class="img-fluid" alt="Imagen relacionada con la noticia">
+                        <h5 class="text-white">Reportes trimestrales 2019.</h5>
                         <i class="fas fa-link text-white"></i>
                     </a>
                 </div>
