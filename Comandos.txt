@@ -1,0 +1,30 @@
+/* Iniciar por primera vez Git */
+git init
+
+/* Agregar los cambios a Git */
+git add .  'o' git add -A
+
+/* Guardar los cambios en Git */
+git commit -m " Mensaje "
+
+/* Conectarse por primera vez a git */
+git remote add origin https://github.com/laloehm/Marret.git
+
+/* Subir los Cambios a a la raiz del proyecto */
+git push -u origin master
+
+/* Ver el status en Git */
+git status
+
+/* Regresar a alguna version anterior del proyecto */
+git checkout
+
+/* Con este nos vamos al ultimo commit que se hizo */
+git checkout master
+
+/* Revisar los commits que se han realizado */
+git log
+
+/* Configurar usuario y correo de git */
+git config --global user.user "laloehm"
+git config --global user.email "laloehm1@gmail.com"

@@ -13,7 +13,26 @@
         <div class="col-md-9 tabs-noticias-content p-0">
             <div class="noticias-tabs-contents">
                 <!--  -->
-                <div class="noticias-content-items noticias-content-items-active" id="noticias-17">
+                <div class="noticias-content-items noticias-content-items-active" id="noticias-18">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Abril/12-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 12 de Abril del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">12/ABRIL/2019</p>
+                            <p><span class="font-weight-bold">1.</span> JP Morgan abre la temporada de presentación de resultados del 1T.</p>
+                            <p><span class="font-weight-bold">2.</span> Las acciones suben aunque siguen a la espera de los resultados de los bancos.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> Se espera un descenso de la confianza de los consumidores de Estados Unidos.</p>
+                            <p><span class="font-weight-bold">4.</span> El petróleo, camino de su mayor actuación semanal desde 2016.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> Las importaciones de China de productos de Estados Unidos se desploman un 28%.</p>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-17">
                     <div class="row">
                         <div class="col-md-6 d-flex justify-content-between align-items-center flex-column">
                             <img src="images/Noticias/Abril/08-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 8 de Abril del 2019">
@@ -342,6 +361,17 @@
                 <div id="amazingcarousel-1">
                     <div class="amazingcarousel-list-container">
                         <ul class="amazingcarousel-list">
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-18" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Abril/12-Abril-19.jpg" alt="08-Abril-19" />
+                                            <p>12/ABRIL/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
                             <!--  -->
                             <li class="amazingcarousel-item news news-active">
                                 <a href="#noticias-17" class="items-noticias mt-0">
