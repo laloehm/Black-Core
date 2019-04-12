@@ -145,7 +145,7 @@
                 </a>
             </div>
         </div>
-        <div class="col-xl-6 mb-2 px-lg-5">
+        <div class="col-xl-6 mb-2 px-lg-5" id="testimoniales">
             <div class="d-flex py-4 mb-2 ranking-title">
                 <h3 class=""><img src="images/Elements/Iconos/COPA.png" class="img-fluid" alt=""> RANKING.</h3>
             </div>
