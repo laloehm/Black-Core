@@ -28,3 +28,6 @@ git log
 /* Configurar usuario y correo de git */
 git config --global user.user "laloehm"
 git config --global user.email "laloehm1@gmail.com"
+
+/* Para ver las diferencias que habia en un archivo */
+git diff index.php 
