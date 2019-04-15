@@ -30,4 +30,8 @@ git config --global user.user "laloehm"
 git config --global user.email "laloehm1@gmail.com"
 
 /* Para ver las diferencias que habia en un archivo */
-git diff index.php 
+git diff index.php
+
+/* Comando para crear alias */
+git config --global alias.add 'git add .'
+
