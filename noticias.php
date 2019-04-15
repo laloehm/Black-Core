@@ -667,6 +667,30 @@
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
+                        <img src="images/Noticias/Abril/15-Abril-19.jpg" class="img-fluid" alt="Noticias del 15 de Abril 2019">
+                        <p class="absolute">15/ABRIL/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">15/ABRIL/2019</p>
+                        <p><span class="font-weight-bold">1.</span> Goldman y Citigroup presentarán sus informes de resultados del 1T.</p>
+                        <p><span class="font-weight-bold">2.</span> Las acciones mundiales se detienen justo antes de máximos de seis meses.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> Trump culpa a la Fed del “mediocre” rendimiento de las acciones.</p>
+                        <p><span class="font-weight-bold">4.</span> El petróleo se desploma antes de la reunión de la OPEP.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> La conclusión de la reunión de primavera del FMI eleva la esperanza de una recuperación económica.</p>
+                    </div>
+                </div>
+            </div>
+            <!--  -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
                         <img src="images/Noticias/Abril/08-Abril-19.jpg" class="img-fluid" alt="Noticias del 8 de Abril 2019">
                         <p class="absolute">08/ABRIL/2019</p>
                     </div>
@@ -760,7 +784,7 @@
                 </div>
             </div>
             <!--  -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/29-Marzo-19.jpg" class="img-fluid" alt="Noticias del 29 de Marzo del 2019">
@@ -782,9 +806,9 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> La libra, bajo presión a la espera del tercer intento de votación del Brexit.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!--  -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/26-Marzo.jpg" class="img-fluid" alt="Noticias del 26 de Marzo del 2019">
@@ -806,9 +830,9 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> Uber compra a su rival de Oriente Próximo, Careem, por 3.100 millones de dólares.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!--  -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/25-Marzo.jpg" class="img-fluid" alt="Noticias del 25 de Marzo del 2019">
@@ -830,7 +854,7 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> Comienza el espectáculo en Apple.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
         </div>
     </div>

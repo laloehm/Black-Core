@@ -89,7 +89,7 @@
                     </video>
                 </div>
                 <div class="bg-black-three py-3 py-md-0 noticia-facebook">
-                    <a href="https://www.facebook.com/blackcorerb/photos/a.769133163455697/788208504881496/?type=3&theater" target="blank" rel="noopener">
+                    <a href="https://www.facebook.com/blackcorerb/photos/a.769133163455697/789959924706354/?type=3&theater" target="blank" rel="noopener">
                         <img src="images/Noticias/Abril/Face-12-Abril.jpg" class="img-fluid" alt="Imagen relacionada con la noticia">
                         <h5 class="text-white">Reportes trimestrales 2019.</h5>
                         <i class="fas fa-link text-white"></i>
