@@ -13,7 +13,26 @@
         <div class="col-md-9 tabs-noticias-content p-0">
             <div class="noticias-tabs-contents">
                 <!--  -->
-                <div class="noticias-content-items noticias-content-items-active" id="noticias-18">
+                <div class="noticias-content-items noticias-content-items-active" id="noticias-19">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Abril/15-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 15 de Abril del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">15/ABRIL/2019</p>
+                            <p><span class="font-weight-bold">1.</span> Goldman y Citigroup presentarán sus informes de resultados del 1T.</p>
+                            <p><span class="font-weight-bold">2.</span> Las acciones mundiales se detienen justo antes de máximos de seis meses.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> Trump culpa a la Fed del “mediocre” rendimiento de las acciones.</p>
+                            <p><span class="font-weight-bold">4.</span> El petróleo se desploma antes de la reunión de la OPEP.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> La conclusión de la reunión de primavera del FMI eleva la esperanza de una recuperación económica.</p>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-18">
                     <div class="row">
                         <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
                             <img src="images/Noticias/Abril/12-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 12 de Abril del 2019">
@@ -361,6 +380,17 @@
                 <div id="amazingcarousel-1">
                     <div class="amazingcarousel-list-container">
                         <ul class="amazingcarousel-list">
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-19" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Abril/15-Abril-19.jpg" alt="15-Abril-19" />
+                                            <p>15/ABRIL/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
                             <!--  -->
                             <li class="amazingcarousel-item news news-active">
                                 <a href="#noticias-18" class="items-noticias mt-0">
