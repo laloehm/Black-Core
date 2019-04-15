@@ -25,6 +25,9 @@ git checkout master
 /* Revisar los commits que se han realizado */
 git log
 
+/* Para ver los commits a una linea */
+git log --oneline
+
 /* Configurar usuario y correo de git */
 git config --global user.user "laloehm"
 git config --global user.email "laloehm1@gmail.com"
@@ -34,4 +37,5 @@ git diff index.php
 
 /* Comando para crear alias */
 git config --global alias.add 'git add .'
+
 
