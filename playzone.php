@@ -76,11 +76,11 @@
                     <div class="carousel-item active">
                         <div class="row">
                             <div class="col-md-3 mb-3 d-flex justify-content-center align-items-center">
-                                <img src="images/Reconocimientos/Avatars/9.jpg" class="img-fluid" alt="">
+                                <img src="images/Reconocimientos/Avatars/1.jpg" class="img-fluid" alt="">
                             </div>
                             <div class="col-md-9 d-flex justify-content-center flex-column">
                                 <div class="row">
-                                    <p class="mr-3 font-aqua">Califax</p>
+                                    <p class="mr-3 font-aqua">Ethernal</p>
                                     <i class="fas fa-star text-white"></i>
                                     <i class="fas fa-star text-white"></i>
                                     <i class="fas fa-star text-white"></i>
@@ -88,7 +88,7 @@
                                     <i class="fas fa-star text-white"></i>
                                 </div>
                                 <div class="row">
-                                    <p class="font-gris-cuatro">Es sorprendente el mundo de las finanzas, pero más sorprendente es todo lo que puedes ganar.
+                                    <p class="font-gris-cuatro">Las probabilidades de tener éxito aumentan cuando lo intentas una y otra vez.
                                     </p>
                                 </div>
                             </div>
@@ -97,11 +97,11 @@
                     <div class="carousel-item">
                         <div class="row">
                             <div class="col-md-3 my-3 my-lg-0 d-flex justify-content-center align-items-center">
-                                <img src="images/Reconocimientos/Avatars/15.jpg" class="img-fluid" alt="">
+                                <img src="images/Reconocimientos/Avatars/2.jpg" class="img-fluid" alt="">
                             </div>
                             <div class="col-md-9">
                                 <div class="row">
-                                    <p class="mr-3 font-aqua">Avenger</p>
+                                    <p class="mr-3 font-aqua">Fearoth</p>
                                     <i class="fas fa-star text-white"></i>
                                     <i class="fas fa-star text-white"></i>
                                     <i class="fas fa-star text-white"></i>
@@ -109,7 +109,7 @@
                                     <i class="fas fa-star"></i>
                                 </div>
                                 <div class="row">
-                                    <p class="font-gris-cuatro">Encontré el hilo negro de ganar dinero y rápido.
+                                    <p class="font-gris-cuatro">Paciencia y serenidad es lo que requiere este mundo para ganar
                                     </p>
                                 </div>
                             </div>
@@ -118,11 +118,11 @@
                     <div class="carousel-item">
                         <div class="row">
                             <div class="col-md-3 my-3 my-lg-0 d-flex justify-content-center align-items-center">
-                                <img src="images/Reconocimientos/Avatars/14.jpg" class="img-fluid" alt="">
+                                <img src="images/Reconocimientos/Avatars/3.jpg" class="img-fluid" alt="">
                             </div>
                             <div class="col-md-9">
                                 <div class="row">
-                                    <p class="mr-3 font-aqua">Barrak</p>
+                                    <p class="mr-3 font-aqua">Arius_19</p>
                                     <i class="fas fa-star text-white"></i>
                                     <i class="fas fa-star text-white"></i>
                                     <i class="fas fa-star text-white"></i>
@@ -162,25 +162,25 @@
                     </thead>
                     <thead class="my-1">
                         <tr class="primero">
-                            <th class="avatar"><img src="images/Reconocimientos/Avatars/9.jpg" class="img-fluid" alt=""></th>
+                            <th class="avatar"><img src="images/Reconocimientos/Avatars/1.jpg" class="img-fluid" alt=""></th>
                             <th class="posicion-primeros">1</th>
-                            <th>Califax</th>
+                            <th>Ethernal</th>
                             <th class="borde-primero">96%</th>
                         </tr>
                         <tr class="espacio"></tr>
                     </thead>
                     <tbody>
                         <tr class="segundo">
-                            <th class="avatar"><img src="images/Reconocimientos/Avatars/15.jpg" class="img-fluid" alt=""></th>
+                            <th class="avatar"><img src="images/Reconocimientos/Avatars/2.jpg" class="img-fluid" alt=""></th>
                             <td class="posicion-primeros">2</td>
-                            <td>Avenger</td>
+                            <td>Fearoth</td>
                             <td>94%</td>
                         </tr>
                         <tr class="espacio"></tr>
                         <tr class="tercero">
-                            <td class=""><img src="images/Reconocimientos/Avatars/14.jpg" class="img-fluid" width="60" alt=""></td>
+                            <td class=""><img src="images/Reconocimientos/Avatars/3.jpg" class="img-fluid" width="60" alt=""></td>
                             <td class="">3</td>
-                            <td>Barrak</td>
+                            <td>Arius_19</td>
                             <td>91%</td>
                         </tr>
                         <tr class="espacio"></tr>
