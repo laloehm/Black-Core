@@ -13,7 +13,26 @@
         <div class="col-md-9 tabs-noticias-content p-0">
             <div class="noticias-tabs-contents">
                 <!--  -->
-                <div class="noticias-content-items noticias-content-items-active" id="noticias-19">
+                <div class="noticias-content-items noticias-content-items-active" id="noticias-20">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Abril/16-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 16 de Abril del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">16/ABRIL/2019</p>
+                            <p><span class="font-weight-bold">1.</span> Presentación de resultados.</p>
+                            <p><span class="font-weight-bold">2.</span> AT&T vende participación en Hulu.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> Datos de vivienda en Estados Unidos.</p>
+                            <p><span class="font-weight-bold">4.</span> Lucha por el precio del petróleo.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> Lufthansa registra pérdidas.</p>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-19">
                     <div class="row">
                         <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
                             <img src="images/Noticias/Abril/15-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 15 de Abril del 2019">
@@ -382,6 +401,17 @@
                         <ul class="amazingcarousel-list">
                             <!--  -->
                             <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-20" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Abril/16-Abril-19.jpg" alt="15-Abril-19" />
+                                            <p>16/ABRIL/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
                                 <a href="#noticias-19" class="items-noticias mt-0">
                                     <div class="amazingcarousel-item-container fecha-noticias">
                                         <div class="amazingcarousel-image">
@@ -667,6 +697,30 @@
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
+                        <img src="images/Noticias/Abril/16-Abril-19.jpg" class="img-fluid" alt="Noticias del 16 de Abril 2019">
+                        <p class="absolute">16/ABRIL/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">16/ABRIL/2019</p>
+                        <p><span class="font-weight-bold">1.</span> Presentación de resultados.</p>
+                        <p><span class="font-weight-bold">2.</span> AT&T vende participación en Hulu.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> Datos de vivienda en Estados Unidos.</p>
+                        <p><span class="font-weight-bold">4.</span> Lucha por el precio del petróleo.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> Lufthansa registra pérdidas.</p>
+                    </div>
+                </div>
+            </div>
+            <!--  -->
+            <div class="">
+                <div class="items-noticias mt-0 news">
+                    <div class="fecha-noticias">
                         <img src="images/Noticias/Abril/15-Abril-19.jpg" class="img-fluid" alt="Noticias del 15 de Abril 2019">
                         <p class="absolute">15/ABRIL/2019</p>
                     </div>
@@ -760,7 +814,7 @@
                 </div>
             </div>
             <!--  -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/Abril/01-Abril-19.jpg" class="img-fluid" alt="Noticias del 1 de Abril 2019">
@@ -782,7 +836,7 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> El petróleo registra máximos de 2019.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!--  -->
             <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">

@@ -36,6 +36,25 @@ git config --global user.email "laloehm1@gmail.com"
 git diff index.php
 
 /* Comando para crear alias */
-git config --global alias.add 'git add .'
+git config --global alias.add 'add .'
 
+/* Comando para crear ramas */
+git branch Nombre-de-la-ramas
 
+/* Comando para cambiarse de rama */
+git checkout nombre-de-la-rama 
+
+/* Comando para crear una rama y entrar en ella al mismo tiempo */
+git checkout -b Nombre-de-la-rama
+
+/* Para cambiar el nombre de una rama */
+git branch -m Nombre-actual Nombre-Nuevo
+
+/* Comando para borrar ramas */
+git branch -d Nombre.de.la.rama
+
+/* Comando para ver alias creados */
+git config --global --get-regexp alias  
+
+/* Comando para eliminar alias */
+git config --global --unset alias.Nombre.del.alias
