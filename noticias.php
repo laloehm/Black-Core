@@ -13,7 +13,26 @@
         <div class="col-md-9 tabs-noticias-content p-0">
             <div class="noticias-tabs-contents">
                 <!--  -->
-                <div class="noticias-content-items noticias-content-items-active" id="noticias-20">
+                <div class="noticias-content-items noticias-content-items-active" id="noticias-21">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Abril/10-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 17 de Abril del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">17/ABRIL/2019</p>
+                            <p><span class="font-weight-bold">1.</span> La economía de China crece un 6,4%.</p>
+                            <p><span class="font-weight-bold">2.</span> Netflix reaparece tras sus resultados.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> Pinterest se estrena en Bolsa.</p>
+                            <p><span class="font-weight-bold">4.</span> Qualcomm y Apple sellan la paz.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> El petróleo, a la espera de los datos de inventarios.</p>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-20">
                     <div class="row">
                         <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
                             <img src="images/Noticias/Abril/16-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 16 de Abril del 2019">
@@ -404,7 +423,18 @@
                                 <a href="#noticias-20" class="items-noticias mt-0">
                                     <div class="amazingcarousel-item-container fecha-noticias">
                                         <div class="amazingcarousel-image">
-                                            <img src="images/Noticias/Abril/16-Abril-19.jpg" alt="15-Abril-19" />
+                                            <img src="images/Noticias/Abril/10-Abril-19.jpg" alt="17-Abril-19" />
+                                            <p>17/ABRIL/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-20" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Abril/16-Abril-19.jpg" alt="16-Abril-19" />
                                             <p>16/ABRIL/19</p>
                                         </div>
                                     </div>
