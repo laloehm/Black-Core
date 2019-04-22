@@ -13,7 +13,26 @@
         <div class="col-md-9 tabs-noticias-content p-0">
             <div class="noticias-tabs-contents">
                 <!--  -->
-                <div class="noticias-content-items noticias-content-items-active" id="noticias-21">
+                <div class="noticias-content-items noticias-content-items-active" id="noticias-22">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Abril/22-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 17 de Abril del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">22/ABRIL/2019</p>
+                            <p><span class="font-weight-bold">1.</span> El petróleo se dispara; EE.UU. va a anunciar el fin de las exenciones a las sanciones de Irán.</p>
+                            <p><span class="font-weight-bold">2.</span> Halliburton, Whirlpool y Kimberly Clark inauguran una semana de presentaciones de resultados de Estados Unidos.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> Bajan los futuros de Estados Unidos.</p>
+                            <p><span class="font-weight-bold">4.</span> A la espera de los datos de EE.UU. sobre las ventas de vivienda construida y la actividad empresarial.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> Cae el dólar; el rendimiento de los bonos del Tesoro es constante.</p>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-21">
                     <div class="row">
                         <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
                             <img src="images/Noticias/Abril/10-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 17 de Abril del 2019">
@@ -413,6 +432,7 @@
                 </div>
             </div>
         </div>
+        <!--  -->
         <div class="col-md-3 menu-noticias d-flex align-items-center justify-content-center bg-gris-uno">
             <div id="amazingcarousel-container-1">
                 <div id="amazingcarousel-1">
@@ -420,7 +440,18 @@
                         <ul class="amazingcarousel-list">
                             <!--  -->
                             <li class="amazingcarousel-item news news-active">
-                                <a href="#noticias-20" class="items-noticias mt-0">
+                                <a href="#noticias-22" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Abril/22-Abril-19.jpg" alt="22-Abril-19" />
+                                            <p>22/ABRIL/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-21" class="items-noticias mt-0">
                                     <div class="amazingcarousel-item-container fecha-noticias">
                                         <div class="amazingcarousel-image">
                                             <img src="images/Noticias/Abril/10-Abril-19.jpg" alt="17-Abril-19" />
