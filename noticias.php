@@ -439,6 +439,36 @@
                     <div class="amazingcarousel-list-container">
                         <ul class="amazingcarousel-list">
                             <!--  -->
+                            <li class="amazingcarousel-item">
+                                <div class="amazingcarousel-item-container">
+                                    <div class="amazingcarousel-image">
+                                        <a href="images/Noticias/Abril/Eventos-22-Abril-03.jpeg" title="" class="html5lightbox" data-group="amazingcarousel-1"><img src="images/Noticias/Abril/Eventos-22-03.jpg" alt="Face" class="imagen-pedera" />
+                                            <p>22/ABRIL/19</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item">
+                                <div class="amazingcarousel-item-container">
+                                    <div class="amazingcarousel-image">
+                                        <a href="images/Noticias/Abril/Eventos-22-Abril-02.jpeg" title="" class="html5lightbox" data-group="amazingcarousel-1"><img src="images/Noticias/Abril/Eventos-22-02.jpg" alt="Face" class="imagen-pedera" />
+                                            <p>22/ABRIL/19</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item">
+                                <div class="amazingcarousel-item-container">
+                                    <div class="amazingcarousel-image">
+                                        <a href="images/Noticias/Abril/Eventos-22-Abril-01.jpeg" title="" class="html5lightbox" data-group="amazingcarousel-1"><img src="images/Noticias/Abril/Eventos-22-01.jpg" alt="Face" class="imagen-pedera" />
+                                            <p>22/ABRIL/19</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </li>
+                            <!--  -->
                             <li class="amazingcarousel-item news news-active">
                                 <a href="#noticias-22" class="items-noticias mt-0">
                                     <div class="amazingcarousel-item-container fecha-noticias">
@@ -754,7 +784,55 @@
     <!-- Noticias Mobile -->
     <div class="row-noticias-mobile">
         <div class="col-12 menu-noticias-mobile d-flex align-items-center justify-content-center flex-column">
-            <!--  -->
+            <!-- 1 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
+                        <img src="images/Noticias/Abril/22-Abril-19.jpg" class="img-fluid" alt="Noticias del 16 de Abril 2019">
+                        <p class="absolute">22/ABRIL/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">22/ABRIL/2019</p>
+                        <p><span class="font-weight-bold">1.</span> El petróleo se dispara; EE.UU. va a anunciar el fin de las exenciones a las sanciones de Irán.</p>
+                        <p><span class="font-weight-bold">2.</span> Halliburton, Whirlpool y Kimberly Clark inauguran una semana de presentaciones de resultados de Estados Unidos.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> Bajan los futuros de Estados Unidos.</p>
+                        <p><span class="font-weight-bold">4.</span> A la espera de los datos de EE.UU. sobre las ventas de vivienda construida y la actividad empresarial.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> Cae el dólar; el rendimiento de los bonos del Tesoro es constante.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- 2 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
+                        <img src="images/Noticias/Abril/10-Abril-19.jpg" class="img-fluid" alt="Noticias del 16 de Abril 2019">
+                        <p class="absolute">17/ABRIL/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">17/ABRIL/2019</p>
+                        <p><span class="font-weight-bold">1.</span> La economía de China crece un 6,4%.</p>
+                        <p><span class="font-weight-bold">2.</span> Netflix reaparece tras sus resultados.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> Pinterest se estrena en Bolsa.</p>
+                        <p><span class="font-weight-bold">4.</span> Qualcomm y Apple sellan la paz.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> El petróleo, a la espera de los datos de inventarios.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- 3 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -778,7 +856,7 @@
                     </div>
                 </div>
             </div>
-            <!--  -->
+            <!-- 4 -->
             <div class="">
                 <div class="items-noticias mt-0 news">
                     <div class="fecha-noticias">
@@ -802,7 +880,7 @@
                     </div>
                 </div>
             </div>
-            <!--  -->
+            <!-- 5 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -827,7 +905,7 @@
                 </div>
             </div>
             <!--  -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/Abril/03-Abril-19.jpg" class="img-fluid" alt="Noticias del 3 de Abril 2019">
@@ -849,9 +927,9 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> Informe de reservas de petróleo de la Administración de Información Energética.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!--  -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/Abril/02-Abril-19.jpg" class="img-fluid" alt="Noticias del 2 de Abril 2019">
@@ -873,7 +951,7 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> Estados Unidos: datos de bienes duraderos.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!--  -->
             <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
