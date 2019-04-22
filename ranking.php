@@ -13,9 +13,9 @@
                 <td>86%</td>
             </tr>
             <tr>
-                <td class=""><img src="images/Reconocimientos/Avatars/5.jpg" class="img-fluid" width="60" alt=""></td>
+                <td class=""><img src="images/Reconocimientos/Avatars/3.jpg" class="img-fluid" width="60" alt=""></td>
                 <td class="">5</td>
-                <td>Jammer</td>
+                <td>Arius</td>
                 <td>78%</td>
             </tr>
             <tr>
@@ -31,15 +31,15 @@
                 <td>55%</td>
             </tr>
             <tr>
-                <td class=""><img src="images/Reconocimientos/Avatars/8.jpg" class="img-fluid" width="60" alt=""></td>
+                <td class=""><img src="images/Reconocimientos/Avatars/1.jpg" class="img-fluid" width="60" alt=""></td>
                 <td>8</td>
-                <td>Hancock</td>
+                <td>Ethernal</td>
                 <td>49%</td>
             </tr>
             <tr>
                 <td class=""><img src="images/Reconocimientos/Avatars/9.jpg" class="img-fluid" width="60" alt=""></td>
                 <td>9</td>
-                <td>Illusionist</td>
+                <td>Fearoth</td>
                 <td>45%</td>
             </tr>
             <tr>

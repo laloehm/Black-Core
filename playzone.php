@@ -162,25 +162,25 @@
                     </thead>
                     <thead class="my-1">
                         <tr class="primero">
-                            <th class="avatar"><img src="images/Reconocimientos/Avatars/1.jpg" class="img-fluid" alt=""></th>
+                            <th class="avatar"><img src="images/Reconocimientos/Avatars/8.jpg" class="img-fluid" alt=""></th>
                             <th class="posicion-primeros">1</th>
-                            <th>Ethernal</th>
+                            <th>Hancock</th>
                             <th class="borde-primero">96%</th>
                         </tr>
                         <tr class="espacio"></tr>
                     </thead>
                     <tbody>
                         <tr class="segundo">
-                            <th class="avatar"><img src="images/Reconocimientos/Avatars/2.jpg" class="img-fluid" alt=""></th>
+                            <th class="avatar"><img src="images/Reconocimientos/Avatars/9.jpg" class="img-fluid" alt=""></th>
                             <td class="posicion-primeros">2</td>
-                            <td>Fearoth</td>
+                            <td>Illusionist</td>
                             <td>94%</td>
                         </tr>
                         <tr class="espacio"></tr>
                         <tr class="tercero">
-                            <td class=""><img src="images/Reconocimientos/Avatars/3.jpg" class="img-fluid" width="60" alt=""></td>
+                            <td class=""><img src="images/Reconocimientos/Avatars/5.jpg" class="img-fluid" width="60" alt=""></td>
                             <td class="">3</td>
-                            <td>Arius_19</td>
+                            <td>Jammer</td>
                             <td>91%</td>
                         </tr>
                         <tr class="espacio"></tr>
