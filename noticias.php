@@ -13,7 +13,26 @@
         <div class="col-md-9 tabs-noticias-content p-0">
             <div class="noticias-tabs-contents">
                 <!--  -->
-                <div class="noticias-content-items noticias-content-items-active" id="noticias-22">
+                <div class="noticias-content-items noticias-content-items-active" id="noticias-23">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Abril/23-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 17 de Abril del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">23/ABRIL/2019</p>
+                            <p><span class="font-weight-bold">1.</span> El petróleo, cerca de máximos de 2019; EE.UU. pone fin a las exenciones a las sanciones de Irán.</p>
+                            <p><span class="font-weight-bold">2.</span> La revisión al alza de Twitter y otras acciones de empresas líderes.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> Los futuros de EE.UU. apuntan a una apertura sin cambios a la espera de los resultados.</p>
+                            <p><span class="font-weight-bold">4.</span> Los datos del mercado inmobiliario encabezan la agenda económica.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> Los bancos europeos se desploman; el BCE lastra las expectativas de más ayuda.</p>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-22">
                     <div class="row">
                         <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
                             <img src="images/Noticias/Abril/22-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 17 de Abril del 2019">
@@ -439,6 +458,17 @@
                     <div class="amazingcarousel-list-container">
                         <ul class="amazingcarousel-list">
                             <!--  -->
+                            <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-23" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Abril/23-Abril-19.jpg" alt="23-Abril-19" />
+                                            <p>23/ABRIL/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
                             <li class="amazingcarousel-item">
                                 <div class="amazingcarousel-item-container">
                                     <div class="amazingcarousel-image">
@@ -784,6 +814,30 @@
     <!-- Noticias Mobile -->
     <div class="row-noticias-mobile">
         <div class="col-12 menu-noticias-mobile d-flex align-items-center justify-content-center flex-column">
+            <!-- 1 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
+                        <img src="images/Noticias/Abril/23-Abril-19.jpg" class="img-fluid" alt="Noticias del 23 de Abril 2019">
+                        <p class="absolute">23/ABRIL/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">22/ABRIL/2019</p>
+                        <p><span class="font-weight-bold">1.</span> El petróleo, cerca de máximos de 2019; EE.UU. pone fin a las exenciones a las sanciones de Irán.</p>
+                        <p><span class="font-weight-bold">2.</span> La revisión al alza de Twitter y otras acciones de empresas líderes.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> Los futuros de EE.UU. apuntan a una apertura sin cambios a la espera de los resultados.</p>
+                        <p><span class="font-weight-bold">4.</span> Los datos del mercado inmobiliario encabezan la agenda económica.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> Los bancos europeos se desploman; el BCE lastra las expectativas de más ayuda.</p>
+                    </div>
+                </div>
+            </div>
             <!-- 1 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
