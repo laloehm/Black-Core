@@ -13,7 +13,26 @@
         <div class="col-md-9 tabs-noticias-content p-0">
             <div class="noticias-tabs-contents">
                 <!--  -->
-                <div class="noticias-content-items noticias-content-items-active" id="noticias-23">
+                <div class="noticias-content-items noticias-content-items-active" id="noticias-24">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Abril/24-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 24 de Abril del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">24/ABRIL/2019</p>
+                            <p><span class="font-weight-bold">1.</span> Boeing, Caterpillar y Facebook abren el desfile de resultados.</p>
+                            <p><span class="font-weight-bold">2.</span> Wall Street se detiene cerca de máximos históricos.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> El petróleo rompe su racha ganadora tras el aumento de las reservas de EE.UU.</p>
+                            <p><span class="font-weight-bold">4.</span> El Banco de Canadá se dispone a anunciar sus prudentes decisiones.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> Las conversaciones comerciales entre EE.UU. y China se reanudan la semana que viene con el objetivo de un proyecto de acuerdo.</p>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-23">
                     <div class="row">
                         <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
                             <img src="images/Noticias/Abril/23-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 17 de Abril del 2019">
@@ -457,6 +476,17 @@
                 <div id="amazingcarousel-1">
                     <div class="amazingcarousel-list-container">
                         <ul class="amazingcarousel-list">
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-24" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Abril/24-Abril-19.jpg" alt="24-Abril-19" />
+                                            <p>24/ABRIL/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
                             <!--  -->
                             <li class="amazingcarousel-item news news-active">
                                 <a href="#noticias-23" class="items-noticias mt-0">

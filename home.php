@@ -89,9 +89,9 @@
                     </video>
                 </div>
                 <div class="bg-black-three py-3 py-md-0 noticia-facebook">
-                    <a href="https://www.facebook.com/blackcorerb/photos/a.769133163455697/794667897568890/?type=3&theater" target="blank" rel="noopener">
-                        <img src="images/Noticias/Abril/Face-23-Abril.jpg" class="img-fluid" alt="Imagen relacionada con la noticia">
-                        <h5 class="text-white">Tesla Inc.</h5>
+                    <a href="https://www.facebook.com/blackcorerb/photos/a.769133163455697/795232437512436/?type=3&theater" target="blank" rel="noopener">
+                        <img src="images/Noticias/Abril/Face-24-Abril.jpg" class="img-fluid" alt="Imagen relacionada con la noticia">
+                        <h5 class="text-white">Catepillar Inc.</h5>
                         <i class="fas fa-link text-white"></i>
                     </a>
                 </div>
