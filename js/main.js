@@ -392,3 +392,17 @@ document.addEventListener("DOMContentLoaded", function () {
     window.addEventListener("orientationchange", lazyLoad);
 });
 
+function onYouTubeIframeAPIReady() {
+    var player;
+    player = new YT.Player('player', {
+        videoId: '773xEfZSZLU',
+        playerVars: { 'autoplay': 1, 'controls': 0 },
+        events: {
+            'onReady': onPlayerReady,
+            'onPlaybackQualityChange': onPlayerPlaybackQualityChange,
+            'onStateChange': onPlayerStateChange,
+            'onError': onPlayerError
+        }
+    });
+}
+
