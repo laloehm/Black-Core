@@ -15,7 +15,7 @@
             <tr>
                 <td class=""><img src="images/Reconocimientos/Avatars/3.jpg" class="img-fluid" width="60" alt=""></td>
                 <td class="">5</td>
-                <td>Arius</td>
+                <td>Arius_19</td>
                 <td>78%</td>
             </tr>
             <tr>
@@ -37,7 +37,7 @@
                 <td>49%</td>
             </tr>
             <tr>
-                <td class=""><img src="images/Reconocimientos/Avatars/9.jpg" class="img-fluid" width="60" alt=""></td>
+                <td class=""><img src="images/Reconocimientos/Avatars/2.jpg" class="img-fluid" width="60" alt=""></td>
                 <td>9</td>
                 <td>Fearoth</td>
                 <td>45%</td>
