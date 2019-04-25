@@ -35,7 +35,7 @@
                         </a> -->
                     <!-- <img src="images/Home/Bg-Video.jpg" width="100%" height="100%" alt="" class="">
                     <img src="images/Home/Btn-Play.png" class="play" alt="Boton de play"> -->
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/773xEfZSZLU?showinfo=1;controls=0;autoplay=1;rel=0;hd=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/AGImPldqkFo?showinfo=1;controls=0;autoplay=1;rel=0;hd=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <div class="content-diamont">
                     <div class="p-0 col-video-uno d-flex justify-content-center align-items-center col">
@@ -90,9 +90,9 @@
                     </video>
                 </div>
                 <div class="bg-black-three py-3 py-md-0 noticia-facebook">
-                    <a href="https://www.facebook.com/blackcorerb/photos/a.769133163455697/795232437512436/?type=3&theater" target="blank" rel="noopener">
-                        <img src="images/Noticias/Abril/Face-24-Abril.jpg" class="img-fluid" alt="Imagen relacionada con la noticia">
-                        <h5 class="text-white">Catepillar Inc.</h5>
+                    <a href="https://www.facebook.com/blackcorerb/photos/a.769133163455697/795808280788185/?type=3&theater" target="blank" rel="noopener">
+                        <img src="images/Noticias/Abril/Face-25-Abril.jpg" class="img-fluid" alt="Imagen relacionada con la noticia">
+                        <h5 class="text-white">Eventos técnicos</h5>
                         <i class="fas fa-link text-white"></i>
                     </a>
                 </div>

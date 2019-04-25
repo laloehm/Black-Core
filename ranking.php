@@ -19,15 +19,15 @@
                 <td>78%</td>
             </tr>
             <tr>
-                <td class=""><img src="images/Reconocimientos/Avatars/6.jpg" class="img-fluid" width="60" alt=""></td>
+                <td class=""><img src="images/Reconocimientos/Avatars/9.jpg" class="img-fluid" width="60" alt=""></td>
                 <td class="">6</td>
-                <td>Cross</td>
+                <td>Illusionist</td>
                 <td>68%</td>
             </tr>
             <tr>
-                <td class=""><img src="images/Reconocimientos/Avatars/7.jpg" class="img-fluid" width="60" alt=""></td>
+                <td class=""><img src="images/Reconocimientos/Avatars/8.jpg" class="img-fluid" width="60" alt=""></td>
                 <td>7</td>
-                <td>Ghosts</td>
+                <td>Hancock</td>
                 <td>55%</td>
             </tr>
             <tr>
@@ -43,9 +43,9 @@
                 <td>45%</td>
             </tr>
             <tr>
-                <td class=""><img src="images/Reconocimientos/Avatars/10.jpg" class="img-fluid" width="60" alt=""></td>
+                <td class=""><img src="images/Reconocimientos/Avatars/5.jpg" class="img-fluid" width="60" alt=""></td>
                 <td>10</td>
-                <td>Bandalar</td>
+                <td>Jammer</td>
                 <td>41%</td>
             </tr>
         </tbody>

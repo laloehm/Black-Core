@@ -162,25 +162,25 @@
                     </thead>
                     <thead class="my-1">
                         <tr class="primero">
-                            <th class="avatar"><img src="images/Reconocimientos/Avatars/8.jpg" class="img-fluid" alt=""></th>
+                            <th class="avatar"><img src="images/Reconocimientos/Avatars/7.jpg" class="img-fluid" alt=""></th>
                             <th class="posicion-primeros">1</th>
-                            <th>Hancock</th>
+                            <th>Ghost</th>
                             <th class="borde-primero">96%</th>
                         </tr>
                         <tr class="espacio"></tr>
                     </thead>
                     <tbody>
                         <tr class="segundo">
-                            <th class="avatar"><img src="images/Reconocimientos/Avatars/9.jpg" class="img-fluid" alt=""></th>
+                            <th class="avatar"><img src="images/Reconocimientos/Avatars/6.jpg" class="img-fluid" alt=""></th>
                             <td class="posicion-primeros">2</td>
-                            <td>Illusionist</td>
+                            <td>Cross</td>
                             <td>94%</td>
                         </tr>
                         <tr class="espacio"></tr>
                         <tr class="tercero">
-                            <td class=""><img src="images/Reconocimientos/Avatars/5.jpg" class="img-fluid" width="60" alt=""></td>
+                            <td class=""><img src="images/Reconocimientos/Avatars/10.jpg" class="img-fluid" width="60" alt=""></td>
                             <td class="">3</td>
-                            <td>Jammer</td>
+                            <td>Bandalar</td>
                             <td>91%</td>
                         </tr>
                         <tr class="espacio"></tr>
