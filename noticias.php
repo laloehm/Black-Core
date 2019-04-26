@@ -13,21 +13,21 @@
         <div class="col-md-9 tabs-noticias-content p-0">
             <div class="noticias-tabs-contents">
                 <!--  -->
-                <div class="noticias-content-items noticias-content-items-active" id="noticias-25">
+                <div class="noticias-content-items noticias-content-items-active" id="noticias-26">
                     <div class="row">
                         <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
-                            <img src="images/Noticias/Abril/25-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 25 de Abril del 2019">
+                            <img src="images/Noticias/Abril/26-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 26 de Abril del 2019">
                             <div class="my-3">
                                 <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <p class="font-weight-bold font-aqua m-0">25/ABRIL/2019</p>
-                            <p><span class="font-weight-bold">1.</span> Facebook sube gracias a las cifras de usuario a pesar de la multa de la FTC.</p>
-                            <p><span class="font-weight-bold">2.</span> Microsoft impulsa la confianza en las tecnológicas.</p>
-                            <p class=""><span class="font-weight-bold">3.</span> Wall Street apunta a una apertura plana a pesar del empujón de las tecnológicas.</p>
-                            <p><span class="font-weight-bold">4.</span> El dólar registra nuevos máximos de 2019, respaldado por el Banco de Japón.</p>
-                            <p class="m-0"><span class="font-weight-bold">5.</span> Se espera un aumento de los pedidos de bienes duraderos.</p>
+                            <p class="font-weight-bold font-aqua m-0">26/ABRIL/2019</p>
+                            <p><span class="font-weight-bold">1.</span> Se espera que el crecimiento del PIB registre mínimos de dos años.</p>
+                            <p><span class="font-weight-bold">2.</span> Uber dará a conocer los términos de su OPV de 90.000 millones de dólares.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> Intel se desploma un 8% ante las negativas previsiones.</p>
+                            <p><span class="font-weight-bold">4.</span> Los grandes del petróleo presentan resultados.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> Intel lastra los futuros del Dow; los futuros del Nasdaq siguen al alza.</p>
                         </div>
                     </div>
                 </div>
@@ -495,6 +495,17 @@
                 <div id="amazingcarousel-1">
                     <div class="amazingcarousel-list-container">
                         <ul class="amazingcarousel-list">
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-26" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Abril/26-Abril-19.jpg" alt="26-Abril-19" />
+                                            <p>26/ABRIL/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
                             <!--  -->
                             <li class="amazingcarousel-item news news-active">
                                 <a href="#noticias-25" class="items-noticias mt-0">
