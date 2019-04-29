@@ -91,8 +91,8 @@
                 </div>
                 <!-- Noticia Facebook -->
                 <div class="bg-black-three py-3 py-md-0 noticia-facebook">
-                    <a href="https://www.facebook.com/blackcorerb/photos/a.769133163455697/796367480732265/?type=3&theater" target="blank" rel="noopener">
-                        <img src="images/Noticias/Abril/Face-26-Abril.jpg" class="img-fluid" alt="Imagen relacionada con la noticia">
+                    <a href="https://www.facebook.com/blackcorerb/photos/a.769133163455697/798169060552107/?type=3&theater" target="blank" rel="noopener">
+                        <img src="images/Noticias/Abril/Face-29-Abril.jpg" class="img-fluid" alt="Imagen relacionada con la noticia">
                         <h5 class="text-white">Eventos técnicos</h5>
                         <i class="fas fa-link text-white"></i>
                     </a>
