@@ -13,7 +13,26 @@
         <div class="col-md-9 tabs-noticias-content p-0">
             <div class="noticias-tabs-contents">
                 <!--  -->
-                <div class="noticias-content-items noticias-content-items-active" id="noticias-27">
+                <div class="noticias-content-items noticias-content-items-active" id="noticias-28">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Abril/30-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 30 de Abril del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">30/ABRIL/2019</p>
+                            <p><span class="font-weight-bold">1.</span> El descenso de los ingresos de Google lastra las tecnológicas.</p>
+                            <p><span class="font-weight-bold">2.</span> China anuncia un debilitamiento de la actividad manufacturera a la espera de las negociaciones comerciales.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> La Fed comienza su reunión de política monetaria ante los datos del sector inmobiliario y de consumo.</p>
+                            <p><span class="font-weight-bold">4.</span> Trump demanda a Deutsche Bank y a Capital One.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> El mayor cliente de Boeing amenaza con cambiarse a Airbus.</p>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-27">
                     <div class="row">
                         <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
                             <img src="images/Noticias/Abril/29-Abril-19.jpg" class="img-fluid" alt="Noticiasd del 29 de Abril del 2019">
@@ -516,6 +535,17 @@
                         <ul class="amazingcarousel-list">
                             <!--  -->
                             <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-28" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Abril/30-Abril-19.jpg" alt="30-Abril-19" />
+                                            <p>30/ABRIL/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
                                 <a href="#noticias-27" class="items-noticias mt-0">
                                     <div class="amazingcarousel-item-container fecha-noticias">
                                         <div class="amazingcarousel-image">
@@ -920,6 +950,31 @@
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
+                        <img src="images/Noticias/Abril/29-Abril-19.jpg" class="img-fluid" alt="Noticias del 30 de Abril 2019">
+                        <p class="absolute">30/ABRIL/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">30/ABRIL/2019</p>
+                        <p><span class="font-weight-bold">1.</span> El descenso de los ingresos de Google lastra las tecnológicas.</p>
+                        <p><span class="font-weight-bold">2.</span> China anuncia un debilitamiento de la actividad manufacturera a la espera de las negociaciones comerciales.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> La Fed comienza su reunión de política monetaria ante los datos del sector inmobiliario y de consumo.</p>
+                        <p><span class="font-weight-bold">4.</span> Trump demanda a Deutsche Bank y a Capital One.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> El mayor cliente de Boeing amenaza con cambiarse a Airbus.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
                         <img src="images/Noticias/Abril/29-Abril-19.jpg" class="img-fluid" alt="Noticias del 29 de Abril 2019">
                         <p class="absolute">29/ABRIL/2019</p>
                     </div>
@@ -941,7 +996,7 @@
                 </div>
             </div>
 
-            <!-- 2 -->
+            <!-- 3 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -966,7 +1021,7 @@
                 </div>
             </div>
 
-            <!-- 3 -->
+            <!-- 4 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -991,7 +1046,7 @@
                 </div>
             </div>
 
-            <!-- 4 -->
+            <!-- 5 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -1015,7 +1070,8 @@
                     </div>
                 </div>
             </div>
-            <!-- 5 -->
+
+            <!-- 5
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -1038,7 +1094,7 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> Cae el dólar; el rendimiento de los bonos del Tesoro es constante.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- 2 -->
             <!-- <div class="">

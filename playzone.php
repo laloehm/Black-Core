@@ -162,25 +162,25 @@
                     </thead>
                     <thead class="my-1">
                         <tr class="primero">
-                            <th class="avatar"><img src="images/Reconocimientos/Avatars/7.jpg" class="img-fluid" alt=""></th>
+                            <th class="avatar"><img src="images/Reconocimientos/Avatars/11.jpg" class="img-fluid" alt=""></th>
                             <th class="posicion-primeros">1</th>
-                            <th>Ghost</th>
-                            <th class="borde-primero">96%</th>
+                            <th>Godly</th>
+                            <th class="borde-primero">95%</th>
                         </tr>
                         <tr class="espacio"></tr>
                     </thead>
                     <tbody>
                         <tr class="segundo">
-                            <th class="avatar"><img src="images/Reconocimientos/Avatars/6.jpg" class="img-fluid" alt=""></th>
+                            <th class="avatar"><img src="images/Reconocimientos/Avatars/12.jpg" class="img-fluid" alt=""></th>
                             <td class="posicion-primeros">2</td>
-                            <td>Cross</td>
-                            <td>94%</td>
+                            <td>Koko</td>
+                            <td>92%</td>
                         </tr>
                         <tr class="espacio"></tr>
                         <tr class="tercero">
-                            <td class=""><img src="images/Reconocimientos/Avatars/10.jpg" class="img-fluid" width="60" alt=""></td>
+                            <td class=""><img src="images/Reconocimientos/Avatars/13.jpg" class="img-fluid" width="60" alt=""></td>
                             <td class="">3</td>
-                            <td>Bandalar</td>
+                            <td>JuanPablo_2</td>
                             <td>91%</td>
                         </tr>
                         <tr class="espacio"></tr>
