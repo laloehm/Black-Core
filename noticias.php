@@ -13,7 +13,45 @@
         <div class="col-md-9 tabs-noticias-content p-0">
             <div class="noticias-tabs-contents">
                 <!--  -->
-                <div class="noticias-content-items noticias-content-items-active" id="noticias-30">
+                <div class="noticias-content-items noticias-content-items-active" id="noticias-32">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Mayo/07-Mayo-19.jpg" class="img-fluid" alt="Noticiasd del 07 de Mayo del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">07/MAYO/2019</p>
+                            <p><span class="font-weight-bold">1.</span> El viceprimer ministro de China confirma que participará en las negociaciones comerciales.</p>
+                            <p><span class="font-weight-bold">2.</span> Reina la cautela ante la volatilidad en los mercados mundiales, en medio de la incertidumbre en torno al comercio.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> El petróleo hace malabares entre las preocupaciones en torno al comercio y el conflicto de Irán a la espera de los datos de reservas.</p>
+                            <p><span class="font-weight-bold">4.</span> Lyft trata de impulsar sus ganancias antes de la OPV de Uber.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> La agitación política de Turquía lleva a la lira a una nueva crisis.</p>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-31">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Mayo/06-Mayo-19.jpg" class="img-fluid" alt="Noticiasd del 03 de Mayo del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">06/MAYO/2019</p>
+                            <p><span class="font-weight-bold">1.</span> Trump amenaza con elevar los aranceles a China.</p>
+                            <p><span class="font-weight-bold">2.</span> El Dow va camino de un descenso de 500 puntos ante el malestar en el mercado.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> Cae el petróleo ante las tensiones comerciales.</p>
+                            <p><span class="font-weight-bold">4.</span> Occidental hace más atractiva la oferta a Anadarko.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> Berkshire eleva las recompras de acciones; Buffett destaca a Jain y Abel.</p>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-30">
                     <div class="row">
                         <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
                             <img src="images/Noticias/Mayo/03-Mayo-19.jpg" class="img-fluid" alt="Noticiasd del 03 de Mayo del 2019">
@@ -573,6 +611,28 @@
                         <ul class="amazingcarousel-list">
                             <!--  -->
                             <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-32" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Mayo/07-Mayo-19.jpg" alt="07 de Mayo 19" />
+                                            <p>07/MAYO/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-31" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Mayo/06-Mayo-19.jpg" alt="06 de Mayo 19" />
+                                            <p>06/MAYO/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
                                 <a href="#noticias-30" class="items-noticias mt-0">
                                     <div class="amazingcarousel-item-container fecha-noticias">
                                         <div class="amazingcarousel-image">
@@ -1010,6 +1070,56 @@
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
+                        <img src="images/Noticias/Mayo/07-Mayo-19.jpg" class="img-fluid" alt="Noticias del 07 de Mayo 2019">
+                        <p class="absolute">07/MAYO/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">06/MAYO/2019</p>
+                        <p><span class="font-weight-bold">1.</span> El viceprimer ministro de China confirma que participará en las negociaciones comerciales.</p>
+                        <p><span class="font-weight-bold">2.</span> Reina la cautela ante la volatilidad en los mercados mundiales, en medio de la incertidumbre en torno al comercio.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> El petróleo hace malabares entre las preocupaciones en torno al comercio y el conflicto de Irán a la espera de los datos de reservas.</p>
+                        <p><span class="font-weight-bold">4.</span> Lyft trata de impulsar sus ganancias antes de la OPV de Uber.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> La agitación política de Turquía lleva a la lira a una nueva crisis.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
+                        <img src="images/Noticias/Mayo/06-Mayo-19.jpg" class="img-fluid" alt="Noticias del 06 de Mayo 2019">
+                        <p class="absolute">06/MAYO/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">06/MAYO/2019</p>
+                        <p><span class="font-weight-bold">1.</span> Trump amenaza con elevar los aranceles a China.</p>
+                        <p><span class="font-weight-bold">2.</span> El Dow va camino de un descenso de 500 puntos ante el malestar en el mercado.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> Cae el petróleo ante las tensiones comerciales.</p>
+                        <p><span class="font-weight-bold">4.</span> Occidental hace más atractiva la oferta a Anadarko.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> Berkshire eleva las recompras de acciones; Buffett destaca a Jain y Abel.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 3 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
                         <img src="images/Noticias/Mayo/03-Mayo-19.jpg" class="img-fluid" alt="Noticias del 03 de Mayo 2019">
                         <p class="absolute">03/MAYO/2019</p>
                     </div>
@@ -1031,7 +1141,7 @@
                 </div>
             </div>
 
-            <!-- 2 -->
+            <!-- 4 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -1056,7 +1166,7 @@
                 </div>
             </div>
 
-            <!-- 3 -->
+            <!-- 5 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -1081,7 +1191,7 @@
                 </div>
             </div>
 
-            <!-- 4 -->
+            <!-- 5 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -1107,7 +1217,7 @@
             </div>
 
             <!-- 5 -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/Abril/25-Abril-19.jpg" class="img-fluid" alt="Noticias del 26 de Abril 2019">
@@ -1129,7 +1239,7 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> Se espera un aumento de los pedidos de bienes duraderos.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- 5 -->
             <!-- <div class="">
