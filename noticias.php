@@ -13,7 +13,45 @@
         <div class="col-md-9 tabs-noticias-content p-0">
             <div class="noticias-tabs-contents">
                 <!--  -->
-                <div class="noticias-content-items noticias-content-items-active" id="noticias-32">
+                <div class="noticias-content-items noticias-content-items-active" id="noticias-35">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Mayo/10-Mayo-19.jpg" class="img-fluid" alt="Noticiasd de Wall Street 09 de Mayo del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">10/MAYO/2019</p>
+                            <p><span class="font-weight-bold">1.</span> Los aranceles entran en vigor.</p>
+                            <p><span class="font-weight-bold">2.</span> Se disparan las acciones de China; los futuros de EE.UU. mantienen la cautela.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> Uber sale a bolsa en el extremo inferior de su rango de precio.</p>
+                            <p><span class="font-weight-bold">4.</span> Se espera una subida del IPC.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> El petróleo frena ganancias ante la intensificación de las disputas comerciales.</p>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-34">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Abril/24-Abril-19.jpg" class="img-fluid" alt="Noticiasd de Wall Street 08 de Mayo del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">08/MAYO/2019</p>
+                            <p><span class="font-weight-bold">1.</span> Los datos comerciales de China muestran un debilitamiento de las exportaciones.</p>
+                            <p><span class="font-weight-bold">2.</span> Las acciones bajan a escala mundial antes de las negociaciones comerciales.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> Repunta el petróleo tras registrar mínimos de 5 semanas a la espera de los datos de reservas.</p>
+                            <p><span class="font-weight-bold">4.</span> Disney presenta resultados.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> Las pérdidas de Lyft proyectan una sombra sobre la OPV de Uber.</p>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-32">
                     <div class="row">
                         <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
                             <img src="images/Noticias/Mayo/07-Mayo-19.jpg" class="img-fluid" alt="Noticiasd del 07 de Mayo del 2019">
@@ -611,6 +649,28 @@
                         <ul class="amazingcarousel-list">
                             <!--  -->
                             <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-35" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Mayo/10-Mayo-19.jpg" alt="Wall Street 10 de Mayo 2019" />
+                                            <p>10/MAYO/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-34" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Abril/24-Abril-19.jpg" alt="Wall Street 08 de Mayo 2019" />
+                                            <p>09/MAYO/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
                                 <a href="#noticias-32" class="items-noticias mt-0">
                                     <div class="amazingcarousel-item-container fecha-noticias">
                                         <div class="amazingcarousel-image">
@@ -1070,6 +1130,57 @@
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
+                        <img src="images/Noticias/Mayo/09-Mayo-19.jpg" class="img-fluid" alt="Noticias del 09 de Mayo 2019">
+                        <p class="absolute">09/MAYO/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">09/MAYO/2019</p>
+                        <p><span class="font-weight-bold">1.</span> Los aranceles entran en vigor.</p>
+                        <p><span class="font-weight-bold">2.</span> Se disparan las acciones de China; los futuros de EE.UU. mantienen la cautela.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> Uber sale a bolsa en el extremo inferior de su rango de precio.</p>
+                        <p><span class="font-weight-bold">4.</span> Se espera una subida del IPC.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> El petróleo frena ganancias ante la intensificación de las disputas comerciales.</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- 1 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
+                        <img src="images/Noticias/Abril/24-Abril-19.jpg" class="img-fluid" alt="Noticias del 07 de Mayo 2019">
+                        <p class="absolute">08/MAYO/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">08/MAYO/2019</p>
+                        <p><span class="font-weight-bold">1.</span> Los datos comerciales de China muestran un debilitamiento de las exportaciones.</p>
+                        <p><span class="font-weight-bold">2.</span> Las acciones bajan a escala mundial antes de las negociaciones comerciales.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> Repunta el petróleo tras registrar mínimos de 5 semanas a la espera de los datos de reservas.</p>
+                        <p><span class="font-weight-bold">4.</span> Disney presenta resultados.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> Las pérdidas de Lyft proyectan una sombra sobre la OPV de Uber.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
                         <img src="images/Noticias/Mayo/07-Mayo-19.jpg" class="img-fluid" alt="Noticias del 07 de Mayo 2019">
                         <p class="absolute">07/MAYO/2019</p>
                     </div>
@@ -1091,7 +1202,7 @@
                 </div>
             </div>
 
-            <!-- 2 -->
+            <!-- 3 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -1116,7 +1227,7 @@
                 </div>
             </div>
 
-            <!-- 3 -->
+            <!-- 4 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -1141,7 +1252,7 @@
                 </div>
             </div>
 
-            <!-- 4 -->
+            <!-- 5 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -1167,7 +1278,7 @@
             </div>
 
             <!-- 5 -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/Abril/29-Abril-19.jpg" class="img-fluid" alt="Noticias del 30 de Abril 2019">
@@ -1189,10 +1300,10 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> El mayor cliente de Boeing amenaza con cambiarse a Airbus.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- 5 -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/Abril/29-Abril-19.jpg" class="img-fluid" alt="Noticias del 29 de Abril 2019">
@@ -1214,7 +1325,7 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> La inflación acapara la atención a la espera de la decisión de la Fed.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- 5 -->
             <!-- <div class="">

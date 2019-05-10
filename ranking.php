@@ -7,9 +7,9 @@
     <table class="table">
         <tbody class="ultimos">
             <tr>
-                <td class="avatar"><img src="images/Reconocimientos/Avatars/14.jpg" class="img-fluid" alt=""></td>
+                <td class="avatar"><img src="images/Reconocimientos/Avatars/11.jpg" class="img-fluid" alt=""></td>
                 <td class="posicion-primeros">4</td>
-                <td class="borde-primero">Ferry</td>
+                <td class="borde-primero">Goldy</td>
                 <td>86%</td>
             </tr>
             <tr>
@@ -19,9 +19,9 @@
                 <td>78%</td>
             </tr>
             <tr>
-                <td class=""><img src="images/Reconocimientos/Avatars/16.jpg" class="img-fluid" width="60" alt=""></td>
+                <td class=""><img src="images/Reconocimientos/Avatars/12.jpg" class="img-fluid" width="60" alt=""></td>
                 <td class="">6</td>
-                <td>Likat</td>
+                <td>Koko</td>
                 <td>68%</td>
             </tr>
             <tr>
@@ -31,9 +31,9 @@
                 <td>55%</td>
             </tr>
             <tr>
-                <td class=""><img src="images/Reconocimientos/Avatars/18.jpg" class="img-fluid" width="60" alt=""></td>
+                <td class=""><img src="images/Reconocimientos/Avatars/13.jpg" class="img-fluid" width="60" alt=""></td>
                 <td>8</td>
-                <td>Harald</td>
+                <td>JuanPablo_2</td>
                 <td>49%</td>
             </tr>
             <tr>
