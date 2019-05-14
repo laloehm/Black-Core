@@ -13,7 +13,45 @@
         <div class="col-md-9 tabs-noticias-content p-0">
             <div class="noticias-tabs-contents">
                 <!--  -->
-                <div class="noticias-content-items noticias-content-items-active" id="noticias-35">
+                <div class="noticias-content-items noticias-content-items-active" id="noticias-36">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Mayo/14-Mayo-19.jpg" class="img-fluid" alt="Noticiasd de Wall Street 14 de Mayo del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">14/MAYO/2019</p>
+                            <p><span class="font-weight-bold">1.</span> Trump promete hablar con Xi en el G-20; se espera que el resultado sea bueno.</p>
+                            <p><span class="font-weight-bold">2.</span> Caen las acciones de Asia; las de Estados Unidos y Europa se mantienen estables.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> Las observaciones de Trump provocan una reversión del precio de algunas clases de activos.</p>
+                            <p><span class="font-weight-bold">4.</span> El CEO de Uber advierte de que se avecinan más tiempos difíciles para sus acciones.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> Los precios del petróleo bajan a la espera del informe de la OPEP y los datos de reservas.</p>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-36">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Mayo/13-Mayo-19.jpg" class="img-fluid" alt="Noticiasd de Wall Street 13 de Mayo del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">13/MAYO/2019</p>
+                            <p><span class="font-weight-bold">1.</span> Aumenta la tensión en la guerra comercial.</p>
+                            <p><span class="font-weight-bold">2.</span> Wall Street abre considerablemente a la baja.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> El dólar se dispara frente a las divisas de los mercados emergentes.</p>
+                            <p><span class="font-weight-bold">4.</span> Sube el petróleo tras el "sabotaje" a los petroleros de Arabia Saudí.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> El bitcoin alcanza los 7.000 dólares.</p>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-35">
                     <div class="row">
                         <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
                             <img src="images/Noticias/Mayo/10-Mayo-19.jpg" class="img-fluid" alt="Noticiasd de Wall Street 09 de Mayo del 2019">
@@ -649,6 +687,28 @@
                         <ul class="amazingcarousel-list">
                             <!--  -->
                             <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-37" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Mayo/14-Mayo-19.jpg" alt="Wall Street 14 de Mayo 2019" />
+                                            <p>14/MAYO/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-36" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Mayo/13-Mayo-19.jpg" alt="Wall Street 13 de Mayo 2019" />
+                                            <p>13/MAYO/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
                                 <a href="#noticias-35" class="items-noticias mt-0">
                                     <div class="amazingcarousel-item-container fecha-noticias">
                                         <div class="amazingcarousel-image">
@@ -1130,6 +1190,56 @@
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
+                        <img src="images/Noticias/Mayo/14-Mayo-19.jpg" class="img-fluid" alt="Noticias del 14 de Mayo 2019">
+                        <p class="absolute">14/MAYO/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">14/MAYO/2019</p>
+                        <p><span class="font-weight-bold">1.</span> Trump promete hablar con Xi en el G-20; se espera que el resultado sea bueno.</p>
+                        <p><span class="font-weight-bold">2.</span> Caen las acciones de Asia; las de Estados Unidos y Europa se mantienen estables.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> Las observaciones de Trump provocan una reversión del precio de algunas clases de activos.</p>
+                        <p><span class="font-weight-bold">4.</span> El CEO de Uber advierte de que se avecinan más tiempos difíciles para sus acciones.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> Los precios del petróleo bajan a la espera del informe de la OPEP y los datos de reservas.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
+                        <img src="images/Noticias/Mayo/13-Mayo-19.jpg" class="img-fluid" alt="Noticias del 13 de Mayo 2019">
+                        <p class="absolute">13/MAYO/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">13/MAYO/2019</p>
+                        <p><span class="font-weight-bold">1.</span> Aumenta la tensión en la guerra comercial.</p>
+                        <p><span class="font-weight-bold">2.</span> Wall Street abre considerablemente a la baja.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> El dólar se dispara frente a las divisas de los mercados emergentes.</p>
+                        <p><span class="font-weight-bold">4.</span> Sube el petróleo tras el "sabotaje" a los petroleros de Arabia Saudí.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> El bitcoin alcanza los 7.000 dólares.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 3 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
                         <img src="images/Noticias/Mayo/09-Mayo-19.jpg" class="img-fluid" alt="Noticias del 09 de Mayo 2019">
                         <p class="absolute">09/MAYO/2019</p>
                     </div>
@@ -1152,7 +1262,7 @@
             </div>
 
 
-            <!-- 1 -->
+            <!-- 4 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -1177,7 +1287,7 @@
                 </div>
             </div>
 
-            <!-- 2 -->
+            <!-- 5 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -1202,8 +1312,8 @@
                 </div>
             </div>
 
-            <!-- 3 -->
-            <div class="">
+            <!-- 5 -->
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/Mayo/06-Mayo-19.jpg" class="img-fluid" alt="Noticias del 06 de Mayo 2019">
@@ -1225,10 +1335,10 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> Berkshire eleva las recompras de acciones; Buffett destaca a Jain y Abel.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- 4 -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/Mayo/03-Mayo-19.jpg" class="img-fluid" alt="Noticias del 03 de Mayo 2019">
@@ -1250,10 +1360,10 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> Más que alcista.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- 5 -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/Mayo/02-Mayo-19.jpg" class="img-fluid" alt="Noticias del 02 de Mayo 2019">
@@ -1275,7 +1385,7 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> Más que alcista.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- 5 -->
             <!-- <div class="">

@@ -34,7 +34,7 @@
                         </a> -->
                     <!-- <img src="images/Home/Bg-Video.jpg" width="100%" height="100%" alt="" class="">
                     <img src="images/Home/Btn-Play.png" class="play" alt="Boton de play"> -->
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/3vqV-McKvv8?showinfo=1;controls=0;autoplay=1;rel=0;hd=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/kckbbcRo950?showinfo=1;controls=0;autoplay=1;rel=0;hd=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <div class="content-diamont">
                     <div class="p-0 col-video-uno d-flex justify-content-center align-items-center col">
@@ -90,8 +90,8 @@
                 </div>
                 <!-- Noticia Facebook -->
                 <div class="bg-black-three py-3 py-md-0 noticia-facebook">
-                    <a href="https://www.facebook.com/blackcorerb/photos/a.769133163455697/804585889910424/?type=3&theater" target="blank" rel="noopener">
-                        <img src="images/Noticias/Mayo/Face-10-Mayo.jpg" class="img-fluid" alt="Imagen relacionada con la noticia">
+                    <a href="https://www.facebook.com/blackcorerb/photos/a.769133163455697/806409793061367/?type=3&theater" target="blank" rel="noopener">
+                        <img src="images/Noticias/Mayo/Face-13-Mayo.jpg" class="img-fluid" alt="Imagen relacionada con la noticia">
                         <h5 class="text-white">Guerra Comercial</h5>
                         <i class="fas fa-link text-white"></i>
                     </a>
