@@ -1596,7 +1596,7 @@ li p {
 
 .noticias-content-items {
     display: none;
-    border: 1px solid aqua;
+    border: 1px solid #01237d;
     padding: 1em;
     height: 430px;
 }
@@ -1920,14 +1920,14 @@ p.absolute {
     background: none;
     border: none;
     border-radius: 0px;
-    border-bottom: 2px solid cyan;
+    border-bottom: 2px solid #01237d;
     width: 100%;
 }
 
 .contacto textarea {
     background: none;
     border: none;
-    border-bottom: 2px solid cyan;
+    border-bottom: 2px solid #01237d;
     border-radius: 0;
 }
 
@@ -2129,7 +2129,7 @@ footer .col-advertencia p {
     height: 3px;
     position: absolute;
     left: 0;
-    background: aqua;
+    background: #01237d;
     bottom: -10px;
 }
 

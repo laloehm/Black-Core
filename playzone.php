@@ -162,25 +162,25 @@
                     </thead>
                     <thead class="my-1">
                         <tr class="primero">
-                            <th class="avatar"><img src="images/Reconocimientos/Avatars/14.jpg" class="img-fluid" alt=""></th>
+                            <th class="avatar"><img src="images/Reconocimientos/Avatars/13.jpg" class="img-fluid" alt=""></th>
                             <th class="posicion-primeros">1</th>
-                            <th>Ferry</th>
+                            <th>JuanPablo_2</th>
                             <th class="borde-primero">96%</th>
                         </tr>
                         <tr class="espacio"></tr>
                     </thead>
                     <tbody>
                         <tr class="segundo">
-                            <th class="avatar"><img src="images/Reconocimientos/Avatars/16.jpg" class="img-fluid" alt=""></th>
+                            <th class="avatar"><img src="images/Reconocimientos/Avatars/19.jpg" class="img-fluid" alt=""></th>
                             <td class="posicion-primeros">2</td>
-                            <td>Likat</td>
+                            <td>Olaf</td>
                             <td>94%</td>
                         </tr>
                         <tr class="espacio"></tr>
                         <tr class="tercero">
-                            <td class=""><img src="images/Reconocimientos/Avatars/18.jpg" class="img-fluid" width="60" alt=""></td>
+                            <td class=""><img src="images/Reconocimientos/Avatars/21.jpg" class="img-fluid" width="60" alt=""></td>
                             <td class="">3</td>
-                            <td>Harald</td>
+                            <td>S-ven</td>
                             <td>91%</td>
                         </tr>
                         <tr class="espacio"></tr>

@@ -7,13 +7,113 @@
     </div>
 </div>
 
+
 <div class="container wow fadeIn">
+    <div class="row mb-5 align-items-center" style="background:#292929;">
+        <!-- TradingView Widget BEGIN -->
+        <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <!-- <div class="tradingview-widget-copyright"></div> -->
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+            {
+                "symbols": [{
+                        "title": "S&P 500",
+                        "proName": "OANDA:SPX500USD"
+                    },
+                    {
+                        "title": "Shangai Composite",
+                        "proName": "INDEX:XLY0"
+                    },
+                    {
+                        "title": "EUR/USD",
+                        "proName": "FX_IDC:EURUSD"
+                    },
+                    {
+                        "title": "BTC/USD",
+                        "proName": "BITSTAMP:BTCUSD"
+                    },
+                    {
+                        "title": "ETH/USD",
+                        "proName": "BITSTAMP:ETHUSD"
+                    }
+                ],
+                "colorTheme": "dark",
+                "isTransparent": true,
+                "displayMode": "adaptive",
+                "locale": "en"
+            }
+            </script>
+        </div>
+        <!-- TradingView Widget END -->
+
+    </div>
     <!-- Noticias Desktop -->
     <div class="row row-noticias-desktop">
         <div class="col-md-9 tabs-noticias-content p-0">
             <div class="noticias-tabs-contents">
+
                 <!--  -->
-                <div class="noticias-content-items noticias-content-items-active" id="noticias-36">
+                <div class="noticias-content-items noticias-content-items-active" id="noticias-40">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Mayo/17-Mayo-19.jpg" class="img-fluid" alt="Noticiasd de Wall Street 17 de Mayo del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">17/MAYO/2019</p>
+                            <p><span class="font-weight-bold">1.</span> Ruge Pekín, cae el yuan.</p>
+                            <p><span class="font-weight-bold">2.</span> Wall Street apunta a una apertura a la baja.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> Sube el petróleo ante el aumento de las tensiones entre EE.UU. e Irán.</p>
+                            <p><span class="font-weight-bold">4.</span> Pinterest (NYSE:PINS) cae; sube Nvidia (NASDAQ:NVDA).</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> Amazon se apunta a la entrega de comida a domicilio.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-39">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Mayo/16-Mayo-19.jpg" class="img-fluid" alt="Noticiasd de Wall Street 16 de Mayo del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">16/MAYO/2019</p>
+                            <p><span class="font-weight-bold">1.</span> Trump pospone la apertura de un nuevo frente en la guerra comercial.</p>
+                            <p><span class="font-weight-bold">2.</span> Las acciones apuntan a una apertura al alza.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> ¿A quién le da miedo la historia de terror de los bonos de la malvadísima China?.</p>
+                            <p><span class="font-weight-bold">4.</span> Volatilidad en el petróleo ante las tensiones de Oriente Próximo y los datos de EE.UU.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> T. Rowe Price reduce su participación en Tesla (NASDAQ:TSLA).</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-38">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Mayo/15-Mayo-19.jpg" class="img-fluid" alt="Noticiasd de Wall Street 15 de Mayo del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">15/MAYO/2019</p>
+                            <p><span class="font-weight-bold">1.</span> China, en apuros.</p>
+                            <p><span class="font-weight-bold">2.</span> Wall Street apunta a una apertura a la baja.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> LRepunta el petróleo ante la advertencia de la Agencia Internacional de la Energía.</p>
+                            <p><span class="font-weight-bold">4.</span> El último cartucho de May.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> Microsoft advierte de un error.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-37">
                     <div class="row">
                         <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
                             <img src="images/Noticias/Mayo/14-Mayo-19.jpg" class="img-fluid" alt="Noticiasd de Wall Street 14 de Mayo del 2019">
@@ -687,6 +787,39 @@
                         <ul class="amazingcarousel-list">
                             <!--  -->
                             <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-40" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Mayo/17-Mayo-19.jpg" alt="Wall Street 17 de Mayo 2019" />
+                                            <p>17/MAYO/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-39" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Mayo/16-Mayo-19.jpg" alt="Wall Street 16 de Mayo 2019" />
+                                            <p>15/MAYO/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-38" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Mayo/15-Mayo-19.jpg" alt="Wall Street 15 de Mayo 2019" />
+                                            <p>15/MAYO/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
                                 <a href="#noticias-37" class="items-noticias mt-0">
                                     <div class="amazingcarousel-item-container fecha-noticias">
                                         <div class="amazingcarousel-image">
@@ -1190,6 +1323,82 @@
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
+                        <img src="images/Noticias/Mayo/17-Mayo-19.jpg" class="img-fluid" alt="Noticias del 17 de Mayo 2019">
+                        <p class="absolute">17/MAYO/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">17/MAYO/2019</p>
+                        <p><span class="font-weight-bold">1.</span> Ruge Pekín, cae el yuan.</p>
+                        <p><span class="font-weight-bold">2.</span> Wall Street apunta a una apertura a la baja.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> Sube el petróleo ante el aumento de las tensiones entre EE.UU. e Irán.</p>
+                        <p><span class="font-weight-bold">4.</span> Pinterest (NYSE:PINS) cae; sube Nvidia (NASDAQ:NVDA).</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> Amazon se apunta a la entrega de comida a domicilio.</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- 2 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
+                        <img src="images/Noticias/Mayo/16-Mayo-19.jpg" class="img-fluid" alt="Noticias del 16 de Mayo 2019">
+                        <p class="absolute">16/MAYO/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">16/MAYO/2019</p>
+                        <p><span class="font-weight-bold">1.</span> Trump pospone la apertura de un nuevo frente en la guerra comercial.</p>
+                        <p><span class="font-weight-bold">2.</span> Las acciones apuntan a una apertura al alza.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> ¿A quién le da miedo la historia de terror de los bonos de la malvadísima China?.</p>
+                        <p><span class="font-weight-bold">4.</span> Volatilidad en el petróleo ante las tensiones de Oriente Próximo y los datos de EE.UU.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> T. Rowe Price reduce su participación en Tesla (NASDAQ:TSLA).</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
+                        <img src="images/Noticias/Mayo/15-Mayo-19.jpg" class="img-fluid" alt="Noticias del 15 de Mayo 2019">
+                        <p class="absolute">15/MAYO/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">15/MAYO/2019</p>
+                        <p><span class="font-weight-bold">1.</span> China, en apuros.</p>
+                        <p><span class="font-weight-bold">2.</span> Wall Street apunta a una apertura a la baja.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> LRepunta el petróleo ante la advertencia de la Agencia Internacional de la Energía.</p>
+                        <p><span class="font-weight-bold">4.</span> El último cartucho de May.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> Microsoft advierte de un error.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 3 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
                         <img src="images/Noticias/Mayo/14-Mayo-19.jpg" class="img-fluid" alt="Noticias del 14 de Mayo 2019">
                         <p class="absolute">14/MAYO/2019</p>
                     </div>
@@ -1211,7 +1420,7 @@
                 </div>
             </div>
 
-            <!-- 2 -->
+            <!-- 4 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -1236,7 +1445,7 @@
                 </div>
             </div>
 
-            <!-- 3 -->
+            <!-- 5 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -1263,7 +1472,7 @@
 
 
             <!-- 4 -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/Abril/24-Abril-19.jpg" class="img-fluid" alt="Noticias del 07 de Mayo 2019">
@@ -1285,10 +1494,10 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> Las pérdidas de Lyft proyectan una sombra sobre la OPV de Uber.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- 5 -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/Mayo/07-Mayo-19.jpg" class="img-fluid" alt="Noticias del 07 de Mayo 2019">
@@ -1310,7 +1519,7 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> La agitación política de Turquía lleva a la lira a una nueva crisis.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- 5 -->
             <!-- <div class="">

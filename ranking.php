@@ -31,21 +31,21 @@
                 <td>55%</td>
             </tr>
             <tr>
-                <td class=""><img src="images/Reconocimientos/Avatars/13.jpg" class="img-fluid" width="60" alt=""></td>
+                <td class=""><img src="images/Reconocimientos/Avatars/14.jpg" class="img-fluid" width="60" alt=""></td>
                 <td>8</td>
-                <td>JuanPablo_2</td>
+                <td>Ferry</td>
                 <td>49%</td>
             </tr>
             <tr>
-                <td class=""><img src="images/Reconocimientos/Avatars/19.jpg" class="img-fluid" width="60" alt=""></td>
+                <td class=""><img src="images/Reconocimientos/Avatars/16.jpg" class="img-fluid" width="60" alt=""></td>
                 <td>9</td>
-                <td>Olaf</td>
+                <td>Likatt</td>
                 <td>45%</td>
             </tr>
             <tr>
-                <td class=""><img src="images/Reconocimientos/Avatars/21.jpg" class="img-fluid" width="60" alt=""></td>
+                <td class=""><img src="images/Reconocimientos/Avatars/18.jpg" class="img-fluid" width="60" alt=""></td>
                 <td>10</td>
-                <td>S-ven</td>
+                <td>Harald</td>
                 <td>41%</td>
             </tr>
         </tbody>
