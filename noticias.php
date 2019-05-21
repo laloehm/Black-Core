@@ -9,11 +9,9 @@
 
 
 <div class="container wow fadeIn">
-    <div class="row mb-5 align-items-center" style="background:#292929;">
-        <!-- TradingView Widget BEGIN -->
+    <!-- <div class="row mb-5 align-items-center" style="background:#292929;">
         <div class="tradingview-widget-container">
             <div class="tradingview-widget-container__widget"></div>
-            <!-- <div class="tradingview-widget-copyright"></div> -->
             <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
             {
                 "symbols": [{
@@ -44,16 +42,54 @@
             }
             </script>
         </div>
-        <!-- TradingView Widget END -->
-
-    </div>
+    </div> -->
     <!-- Noticias Desktop -->
     <div class="row row-noticias-desktop">
         <div class="col-md-9 tabs-noticias-content p-0">
             <div class="noticias-tabs-contents">
 
                 <!--  -->
-                <div class="noticias-content-items noticias-content-items-active" id="noticias-40">
+                <div class="noticias-content-items noticias-content-items-active" id="noticias-42">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Mayo/21-Mayo-19.jpg" class="img-fluid" alt="Noticiasd de Wall Street 20 de Mayo del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">21/MAYO/2019</p>
+                            <p><span class="font-weight-bold">1.</span> Alto el fuego en la guerra comercial.</p>
+                            <p><span class="font-weight-bold">2.</span> Wall Street apunta a una apertura al alza a la espera de los resultados de las minoristas.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> El petróleo hace una pausa para tomar aliento.</p>
+                            <p><span class="font-weight-bold">4.</span> Sube el dólar.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> Ventas de vivienda y comparecencias de la Fed.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-41">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Mayo/20-Mayo-19.jpg" class="img-fluid" alt="Noticiasd de Wall Street 20 de Mayo del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">20/MAYO/2019</p>
+                            <p><span class="font-weight-bold">1.</span> Caen las acciones al comenzar el boicot a Huawei por parte de las empresas estadounidenses.</p>
+                            <p><span class="font-weight-bold">2.</span> Reacción de Powell.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> El petróleo, volátil ante los indicios de división Arabia Saudí-Rusia.</p>
+                            <p><span class="font-weight-bold">4.</span> Las victorias para Modi y Morrison (LON:MRW) impulsan los mercados indio y australiano.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> Avanzan los populistas.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-40">
                     <div class="row">
                         <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
                             <img src="images/Noticias/Mayo/17-Mayo-19.jpg" class="img-fluid" alt="Noticiasd de Wall Street 17 de Mayo del 2019">
@@ -787,6 +823,28 @@
                         <ul class="amazingcarousel-list">
                             <!--  -->
                             <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-42" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Mayo/21-Mayo-19.jpg" alt="Wall Street 21 de Mayo 2019" />
+                                            <p>21/MAYO/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-41" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Mayo/20-Mayo-19.jpg" alt="Wall Street 20 de Mayo 2019" />
+                                            <p>20/MAYO/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
                                 <a href="#noticias-40" class="items-noticias mt-0">
                                     <div class="amazingcarousel-item-container fecha-noticias">
                                         <div class="amazingcarousel-image">
@@ -1323,6 +1381,56 @@
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
+                        <img src="images/Noticias/Mayo/21-Mayo-19.jpg" class="img-fluid" alt="Noticias del 21 de Mayo 2019">
+                        <p class="absolute">21/MAYO/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">21/MAYO/2019</p>
+                        <p><span class="font-weight-bold">1.</span> Alto el fuego en la guerra comercial.</p>
+                        <p><span class="font-weight-bold">2.</span> Wall Street apunta a una apertura al alza a la espera de los resultados de las minoristas.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> El petróleo hace una pausa para tomar aliento.</p>
+                        <p><span class="font-weight-bold">4.</span> Sube el dólar.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> Ventas de vivienda y comparecencias de la Fed.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
+                        <img src="images/Noticias/Mayo/20-Mayo-19.jpg" class="img-fluid" alt="Noticias del 20 de Mayo 2019">
+                        <p class="absolute">20/MAYO/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">20/MAYO/2019</p>
+                        <p><span class="font-weight-bold">1.</span> Caen las acciones al comenzar el boicot a Huawei por parte de las empresas estadounidenses.</p>
+                        <p><span class="font-weight-bold">2.</span> Reacción de Powell.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> El petróleo, volátil ante los indicios de división Arabia Saudí-Rusia.</p>
+                        <p><span class="font-weight-bold">4.</span> Las victorias para Modi y Morrison (LON:MRW) impulsan los mercados indio y australiano.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> Avanzan los populistas.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 3 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
                         <img src="images/Noticias/Mayo/17-Mayo-19.jpg" class="img-fluid" alt="Noticias del 17 de Mayo 2019">
                         <p class="absolute">17/MAYO/2019</p>
                     </div>
@@ -1345,7 +1453,7 @@
             </div>
 
 
-            <!-- 2 -->
+            <!-- 4 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -1370,7 +1478,7 @@
                 </div>
             </div>
 
-            <!-- 2 -->
+            <!-- 5 -->
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
@@ -1395,8 +1503,8 @@
                 </div>
             </div>
 
-            <!-- 3 -->
-            <div class="">
+            <!-- 5 -->
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/Mayo/14-Mayo-19.jpg" class="img-fluid" alt="Noticias del 14 de Mayo 2019">
@@ -1418,10 +1526,10 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> Los precios del petróleo bajan a la espera del informe de la OPEP y los datos de reservas.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- 4 -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/Mayo/13-Mayo-19.jpg" class="img-fluid" alt="Noticias del 13 de Mayo 2019">
@@ -1443,10 +1551,10 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> El bitcoin alcanza los 7.000 dólares.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- 5 -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/Mayo/09-Mayo-19.jpg" class="img-fluid" alt="Noticias del 09 de Mayo 2019">
@@ -1468,7 +1576,7 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> El petróleo frena ganancias ante la intensificación de las disputas comerciales.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
 
             <!-- 4 -->
