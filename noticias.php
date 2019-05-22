@@ -49,7 +49,27 @@
             <div class="noticias-tabs-contents">
 
                 <!--  -->
-                <div class="noticias-content-items noticias-content-items-active" id="noticias-42">
+                <div class="noticias-content-items noticias-content-items-active" id="noticias-43">
+                    <div class="row">
+                        <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
+                            <img src="images/Noticias/Mayo/22-Mayo-19.jpg" class="img-fluid" alt="Noticiasd de Wall Street 22 de Mayo del 2019">
+                            <div class="my-3">
+                                <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="font-weight-bold font-aqua m-0">22/MAYO/2019</p>
+                            <p><span class="font-weight-bold">1.</span> Listas negras y reacción.</p>
+                            <p><span class="font-weight-bold">2.</span> Las acciones apuntan a una apertura mixta.</p>
+                            <p class=""><span class="font-weight-bold">3.</span> ¿Continuarán las penurias para las empresas minoristas?.</p>
+                            <p><span class="font-weight-bold">4.</span> Una sentencia judicial golpea a Qualcomm.</p>
+                            <p class="m-0"><span class="font-weight-bold">5.</span> Fracasa el último intento de maniobra de Brexit de May.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!--  -->
+                <div class="noticias-content-items" id="noticias-42">
                     <div class="row">
                         <div class="col-md-6 d-flex justify-content-center align-items-center flex-column">
                             <img src="images/Noticias/Mayo/21-Mayo-19.jpg" class="img-fluid" alt="Noticiasd de Wall Street 20 de Mayo del 2019">
@@ -823,6 +843,17 @@
                         <ul class="amazingcarousel-list">
                             <!--  -->
                             <li class="amazingcarousel-item news news-active">
+                                <a href="#noticias-43" class="items-noticias mt-0">
+                                    <div class="amazingcarousel-item-container fecha-noticias">
+                                        <div class="amazingcarousel-image">
+                                            <img src="images/Noticias/Mayo/22-Mayo-19.jpg" alt="Wall Street 22 de Mayo 2019" />
+                                            <p>22/MAYO/19</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="amazingcarousel-item news news-active">
                                 <a href="#noticias-42" class="items-noticias mt-0">
                                     <div class="amazingcarousel-item-container fecha-noticias">
                                         <div class="amazingcarousel-image">
@@ -1381,6 +1412,31 @@
             <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
+                        <img src="images/Noticias/Mayo/22-Mayo-19.jpg" class="img-fluid" alt="Noticias del 22 de Mayo 2019">
+                        <p class="absolute">22/MAYO/2019</p>
+                    </div>
+                </div>
+                <div class="noticias-content-items-mobile noticias-content-items-active mt-3 bg-gris-uno">
+                    <div class="col-md-6 d-flex justify-content-between align-items-center flex-column pt-4">
+                        <div class="mb-1">
+                            <h3 class="azul-dos px-3 text-uppercase title-news">INFÓRMATE</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-4">
+                        <p class="font-weight-bold font-aqua">22/MAYO/2019</p>
+                        <p><span class="font-weight-bold">1.</span> Listas negras y reacción.</p>
+                        <p><span class="font-weight-bold">2.</span> Las acciones apuntan a una apertura mixta.</p>
+                        <p class=""><span class="font-weight-bold">3.</span> ¿Continuarán las penurias para las empresas minoristas?.</p>
+                        <p><span class="font-weight-bold">4.</span> Una sentencia judicial golpea a Qualcomm.</p>
+                        <p class="m-0"><span class="font-weight-bold">5.</span> Fracasa el último intento de maniobra de Brexit de May.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 1 -->
+            <div class="">
+                <div class="items-noticias mt-0 news news-active">
+                    <div class="fecha-noticias">
                         <img src="images/Noticias/Mayo/21-Mayo-19.jpg" class="img-fluid" alt="Noticias del 21 de Mayo 2019">
                         <p class="absolute">21/MAYO/2019</p>
                     </div>
@@ -1479,7 +1535,7 @@
             </div>
 
             <!-- 5 -->
-            <div class="">
+            <!-- <div class="">
                 <div class="items-noticias mt-0 news news-active">
                     <div class="fecha-noticias">
                         <img src="images/Noticias/Mayo/15-Mayo-19.jpg" class="img-fluid" alt="Noticias del 15 de Mayo 2019">
@@ -1501,7 +1557,7 @@
                         <p class="m-0"><span class="font-weight-bold">5.</span> Microsoft advierte de un error.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <!-- 5 -->
             <!-- <div class="">
